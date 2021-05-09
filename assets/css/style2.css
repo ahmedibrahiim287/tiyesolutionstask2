@@ -6,7 +6,7 @@ NEW EDIT
 
 .navbar .navbar-brand h2 em {
 	font-style: normal;
-	color: #f33f3f;
+	color: #a4c639;
 }
 
 
@@ -45,7 +45,7 @@ h6 {
 }
 
 a.filled-button {
-	background-color: #f33f3f;
+	background-color: #a4c639;
 	color: #fff;
 	font-size: 13px;
 	text-transform: uppercase;
@@ -58,7 +58,7 @@ a.filled-button {
 
 a.filled-button:hover {
 	background-color: #fff;
-	color: #f33f3f;
+	color: #a4c639;
 }
 
 a.border-button {
@@ -76,7 +76,7 @@ a.border-button {
 
 a.border-button:hover {
 	background-color: #fff;
-	color: #f33f3f;
+	color: #a4c639;
 }
 
 .section-heading {
@@ -92,7 +92,7 @@ a.border-button:hover {
 
 .section-heading em {
 	font-style: normal;
-	color: #f33f3f;
+	color: #a4c639;
 }
 
 .section-heading span {
@@ -106,7 +106,7 @@ a.border-button:hover {
 
 #preloader {
 	overflow: hidden;
-	background: #f33f3f;
+	background: #a4c639;
 	left: 0;
 	right: 0;
 	top: 0;
@@ -271,8 +271,8 @@ a.border-button:hover {
 
 .products ul.pages li a:hover,
 .products ul.pages li.active a {
-	background-color: #f33f3f;
-	border-color: #f33f3f;
+	background-color: #a4c639;
+	border-color: #a4c639;
 	color: #fff;
 }
 
@@ -289,7 +289,7 @@ a.border-button:hover {
 	text-transform: uppercase;
 	font-size: 13px;
 	font-weight: 700;
-	color: #f33f3f;
+	color: #a4c639;
 }
 
 .product-item {
@@ -358,7 +358,7 @@ a.border-button:hover {
 /* Sub Header Style */
 
 .sub-header {
-	background-color: #232323;
+	background-color: #a4c639;
 	height: 46px;
 	line-height: 46px;
 }
@@ -368,12 +368,12 @@ a.border-button:hover {
 }
 
 .sub-header ul.left-info li {
-	border-left: 1px solid #232323;
+	border-left: 1px solid rgba(250, 250, 250, 0.3);
 	padding: 0px 20px;
 }
 
 .sub-header ul.left-info li:last-child {
-	border-right: 1px solid #232323;
+	border-right: 1px solid rgba(250, 250, 250, 0.3);
 }
 
 .sub-header ul.left-info li i {
@@ -396,11 +396,11 @@ a.border-button:hover {
 	width: 46px;
 	display: inline-block;
 	text-align: center;
-	border-right: 1px solid #232323;
+	border-right: 1px solid rgba(250, 250, 250, 0.3);
 }
 
 .sub-header ul.right-icons li:first-child {
-	border-left: 1px solid #232323;
+	border-left: 1px solid rgba(250, 250, 250, 0.3);
 }
 
 .sub-header ul.right-icons li a {
@@ -410,7 +410,6 @@ a.border-button:hover {
 
 .sub-header ul.right-icons li a:hover {
 	opacity: 0.75;
-	color: #f33f3f;
 }
 
 
@@ -444,12 +443,11 @@ header .navbar {
 }
 
 .background-header .navbar-brand h2 {
-	color: #f33f3f !important;
+	color: #a4c639 !important;
 }
 
 .background-header .navbar-nav a.nav-link {
 	color: #1e1e1e !important;
-
 }
 
 .background-header .navbar-nav .nav-link:hover,
@@ -457,8 +455,7 @@ header .navbar {
 .background-header .navbar-nav .nav-link.active,
 .background-header .navbar-nav .nav-link.show,
 .background-header .navbar-nav .show>.nav-link {
-	color: #f33f3f !important;
-
+	color: #a4c639 !important;
 }
 
 .navbar .navbar-brand {
@@ -510,8 +507,8 @@ header .navbar {
 .navbar .navbar-nav .nav-link.active,
 .navbar .navbar-nav .nav-link.show,
 .navbar .navbar-nav .show>.nav-link {
-	color: #f33f3f;
-	border-bottom: 3px solid #f33f3f;
+	color: #a4c639;
+	border-bottom: 3px solid #a4c639;
 	font-weight: bold;
 	font-size: 18px;
 }
@@ -533,7 +530,7 @@ header .navbar {
 
 .navbar .navbar-toggler-icon:after {
 	content: '\f0c9';
-	color: #f33f3f;
+	color: #a4c639;
 	font-size: 18px;
 	line-height: 26px;
 	font-family: 'FontAwesome';
@@ -661,7 +658,7 @@ ul.slick-dots {
 	text-transform: uppercase;
 	font-weight: 700;
 	letter-spacing: 1px;
-	color: #f33f3f;
+	color: #a4c639;
 	animation: fadeOutRight 1s both;
 }
 
@@ -802,7 +799,7 @@ ul.slick-dots {
 /* Request Form */
 
 .request-form {
-	background-color: #f33f3f;
+	background-color: #a4c639;
 	padding: 40px 0px;
 	color: #fff;
 }
@@ -886,7 +883,7 @@ ul.slick-dots {
 
 .fun-facts em {
 	font-style: normal;
-	color: #f33f3f;
+	color: #a4c639;
 }
 
 .fun-facts p {
@@ -907,7 +904,7 @@ ul.slick-dots {
 
 .count-digit {
 	margin: 5px 0px;
-	color: #f33f3f;
+	color: #a4c639;
 	font-weight: 700;
 	font-size: 36px;
 }
@@ -966,7 +963,7 @@ ul.slick-dots {
 
 .more-info .right-content em {
 	font-style: normal;
-	color: #f33f3f;
+	color: #a4c639;
 }
 
 .more-info .right-content p {
@@ -1045,7 +1042,7 @@ ul.slick-dots {
 }
 
 .callback-form .contact-form {
-	background-color: #f33f3f;
+	background-color: #a4c639;
 	padding: 60px;
 	border-radius: 5px;
 	text-align: center;
@@ -1125,11 +1122,11 @@ ul.slick-dots {
 
 .callback-form .contact-form button.border-button:hover {
 	background-color: #fff;
-	color: #f33f3f;
+	color: #a4c639;
 }
 
 .contact-us .contact-form button.filled-button {
-	background-color: #f33f3f;
+	background-color: #a4c639;
 	color: #fff;
 	border: none;
 	font-size: 13px;
@@ -1147,7 +1144,7 @@ ul.slick-dots {
 
 .contact-us .contact-form button.filled-button:hover {
 	background-color: #fff;
-	color: #f33f3f;
+	color: #a4c639;
 }
 
 
@@ -1222,7 +1219,7 @@ footer ul.social-icons li a {
 }
 
 footer ul.social-icons li a:hover {
-	background-color: #f33f3f;
+	background-color: #a4c639;
 }
 
 footer ul.menu-list li {
@@ -1240,7 +1237,7 @@ footer ul.menu-list li a {
 }
 
 footer ul.menu-list li a:hover {
-	color: #f33f3f;
+	color: #a4c639;
 }
 
 footer .contact-form input {
@@ -1305,7 +1302,7 @@ footer .contact-form ::placeholder {
 footer .contact-form button.filled-button {
 	background-color: transparent;
 	color: #fff;
-	background-color: #f33f3f;
+	background-color: #a4c639;
 	border: none;
 	font-size: 13px;
 	text-transform: uppercase;
@@ -1322,7 +1319,7 @@ footer .contact-form button.filled-button {
 
 footer .contact-form button.filled-button:hover {
 	background-color: #fff;
-	color: #f33f3f;
+	color: #a4c639;
 }
 
 
@@ -1438,7 +1435,7 @@ footer .contact-form button.filled-button:hover {
 	width: 100%;
 	padding: 30px 30px;
 	display: inline-block;
-	background-color: #f33f3f;
+	background-color: #a4c639;
 	font-size: 20px;
 	color: #121212;
 	letter-spacing: 0.5px;
@@ -1507,7 +1504,7 @@ footer .contact-form button.filled-button:hover {
 }
 
 .contact-information .contact-item i {
-	color: #f33f3f;
+	color: #a4c639;
 	font-size: 48px;
 	margin-bottom: 40px;
 }
@@ -1525,7 +1522,7 @@ footer .contact-form button.filled-button:hover {
 
 .contact-information .contact-item a {
 	font-weight: 600;
-	color: #f33f3f;
+	color: #a4c639;
 	font-size: 15px;
 }
 
@@ -1669,7 +1666,7 @@ footer .contact-form button.filled-button:hover {
 	.navbar .navbar-nav .nav-link.active,
 	.navbar .navbar-nav .nav-link.show,
 	.navbar .navbar-nav .show>.nav-link {
-		color: #f33f3f !important;
+		color: #a4c639 !important;
 		border-bottom: none !important;
 	}
 }
